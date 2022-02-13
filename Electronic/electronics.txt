@@ -1,0 +1,4 @@
+Television 25000.00
+Monitor 2000.00
+CD_Player 1500.50
+Projector 15500.80

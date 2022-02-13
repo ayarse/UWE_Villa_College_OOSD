@@ -1,0 +1,22 @@
+Practical
+--------
+1- Write a java program which ask the user to split the following strings and process accordingly (split by ","). The strings are attendance data taken from a finger print machine to process employee attendance to an office.
+
+Strings (store in a text file and read line by line)
+-------------------------------
+ali mohamed,ST1211,0800,1500,1
+ishaq hussain,ST1210,0803,1500,1
+ibrahim ali,ST1200,0800,1500,1
+hussain rasheed,ST1212,0800,1500,2
+aishath ali,ST1219,0800,1500,2
+fathimath amreen,ST1200,0801,1500,1
+
+*legends
+first is name (before the first coma)
+then is staff number
+then sign in time
+then sign out time
+then location ( 1= first floor, 2 = second floor)
+
+Your task.
+The program must show neatly the data on screen by using split or substring function. In addition to this, the program must also show who came ON TIME TO DUTY and who cam LATE.

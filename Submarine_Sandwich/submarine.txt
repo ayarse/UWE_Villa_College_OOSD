@@ -1,0 +1,5 @@
+Tuna_submarine	55.50
+Chicken_submarine	60.00
+Beef_submarine	62.50
+Coke_500ml	15.00
+Water_500ml	08.00

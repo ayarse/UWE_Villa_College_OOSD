@@ -1,0 +1,8 @@
+eye
+nose
+tongue
+hair
+hand
+stomache
+ligaments
+antibodies

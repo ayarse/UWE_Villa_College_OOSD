@@ -1,0 +1,4 @@
+Alexa
+Siri
+Bixby
+Cortana

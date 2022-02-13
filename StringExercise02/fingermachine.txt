@@ -1,0 +1,6 @@
+ali mohamed,ST1211,0800,1500,1
+ishaq hussain,ST1210,0803,1500,1
+ibrahim ali,ST1200,0800,1500,1
+hussain rasheed,ST1212,0800,1500,2
+aishath ali,ST1219,0800,1500,2
+fathimath amreen,ST1200,0801,1500,1

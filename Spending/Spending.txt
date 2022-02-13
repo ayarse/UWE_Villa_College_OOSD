@@ -1,0 +1,9 @@
+Ali 100
+Ali 230
+Mohamed 20
+Ali 300
+Rifau 200
+Ali 55
+Rifau 500
+Mohamed 90
+Ishan 200
